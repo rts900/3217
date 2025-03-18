@@ -12,5 +12,5 @@ npx expo start --iosFor Web:
 npx expo start --webDependenciesExpo
 React Native
 React Navigation
-Styled Components (if used for styling)
+Styled Components 
 ContributionFeel free to fork the project and submit pull requests!
